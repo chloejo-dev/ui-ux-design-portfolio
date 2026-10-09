@@ -1,6 +1,6 @@
 # UI/UX Design Portfolio
 
-This repository showcases my UI/UX design projects created using Figma, including original UI designs and redesign explorations.
+This repository showcases my UI/UX design projects, including original UI designs and redesign explorations.
 
 As a full-stack developer, I am interested in creating intuitive, user-friendly, and visually consistent interfaces. Through these projects, I explore UI/UX design principles, improve existing interfaces, and strengthen my ability to translate designs into functional web applications.
 
@@ -17,9 +17,9 @@ This portfolio includes:
 A mobile UI design concept for an expense tracking application, focusing on clear expense information, visual hierarchy, and intuitive navigation.
 
 <p>
-  <img src="designs/expense-history.png" alt="Expense History UI" width="25%">
+  <img src="designs/expense-history.png" alt="Expense History UI" width="30%">
    &nbsp;&nbsp;&nbsp;
-  <img src="designs/expense-details.png" alt="Expense Details UI" width="25%">
+  <img src="designs/expense-details.png" alt="Expense Details UI" width="30%">
 </p>
 
 ---
@@ -37,6 +37,10 @@ A mobile UI design concept for an expense tracking application, focusing on clea
 ### After
 
 <img src="designs/fresh-cart-after-homepage.jpg" alt="Fresh Cart Homepage After">
+
+### Live Demo
+
+[Fresh Cart](https://fresh-cart-v2-eta.vercel.app/)
 
 ## 🎨 Tools
 
