@@ -16,10 +16,30 @@ This portfolio includes:
 
 A mobile UI design concept for an expense tracking application, focusing on clear expense information, visual hierarchy, and intuitive navigation.
 
+#### v1: Initial Design
+
 <p>
-  <img src="designs/expense-history.png" alt="Expense History UI" width="30%">
+  <img src="designs/receipt-expense-tracker/v1/expense-history.png" alt="Expense History UI" width="30%">
    &nbsp;&nbsp;&nbsp;
-  <img src="designs/expense-details.png" alt="Expense Details UI" width="30%">
+  <img src="designs/receipt-expense-tracker/v1/expense-details.png" alt="Expense Details UI" width="30%">
+</p>
+
+#### v2: Redesign in Progress
+
+- Primary Color Exploration: Compared five orange shades for the primary color, considering readability and users with color vision deficiencies. Selected #D14900 for the updated interface.
+
+<p>
+  <img src="designs/receipt-expense-tracker/v2/sign-in-options.jpg" alt="Primary color comparison across five sign-in screens" width="100%">
+</p>
+
+- Authentication Screens: Designed sign-in and sign-up screens with clear visual hierarchy, consistent typography and spacing, password guidance, and inline validation messages. Implementation in progress.
+
+<p>
+  <img src="designs/receipt-expense-tracker/v2/sign-in-form.png" alt="Sign In Form UI" width="30%">
+   &nbsp;&nbsp;&nbsp;
+  <img src="designs/receipt-expense-tracker/v2/sign-up-form.png" alt="Sign Up Form UI" width="30%">
+   &nbsp;&nbsp;&nbsp;
+  <img src="designs/receipt-expense-tracker/v2/sign-up-form-with-error.png" alt="Sign Up Form with Error UI" width="30%">
 </p>
 
 ---
