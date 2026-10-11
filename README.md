@@ -36,9 +36,9 @@ A mobile UI design concept for an expense tracking application, focusing on clea
 
 <p>
   <img src="designs/receipt-expense-tracker/v2/sign-in-form.png" alt="Sign In Form UI" width="30%">
-   &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="designs/receipt-expense-tracker/v2/sign-up-form.png" alt="Sign Up Form UI" width="30%">
-   &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="designs/receipt-expense-tracker/v2/sign-up-form-with-error.png" alt="Sign Up Form with Error UI" width="30%">
 </p>
 
